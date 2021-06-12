@@ -1,4 +1,4 @@
-<h1 align = "center"> :fast_forward: Module 3 - Python Bootcamp (IGTI) :rewind: </h1>
+<h1 align = "center"> :fast_forward: Module 3 - Python Bootcamp(IGTI) :rewind: </h1>
 <h6 align = "center"> pt-Br </h6>
 
 ## 📖 About
